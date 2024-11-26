@@ -1,7 +1,7 @@
 # Salut/Hi/Hey ! 👋
 
-### Ich bin ein IT-Enthusiast und interessiere mich für Java und DMS. Ich liebe es, Open-Source-Projekte zu erstellen und neue Dinge zu lernen.
-### I'm a passionate IT person, interested in Java and DMS. I like creating open source projects and learning new things.
+### Ich bin ein IT-Enthusiast und interessiere mich für Java und DBMS. Ich liebe es, Open-Source-Projekte zu erstellen und neue Dinge zu lernen.
+### I'm a passionate IT person, interested in Java and DBMS. I like creating open source projects and learning new things.
 
 💡 Orientiert an Datenbanken, Java und Projektumsetzung.
 
